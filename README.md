@@ -238,7 +238,7 @@ This project is currently a personal project.
 
 You can modify and experiment with the code for learning and development purposes.
 
-Author
+M.Yazdanpour
 
 Created as a Python/Pygame game development project.
 
